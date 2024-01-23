@@ -1,0 +1,10 @@
+"C:\Users\9698080\AppData\Local\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/9698080/AppData/Local/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\9698080\CLionProjects\Verifica_Grajdeanu -B C:\Users\9698080\CLionProjects\Verifica_Grajdeanu\cmake-build-debug
+-- The C compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/msys64/mingw64/bin/cc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (2.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/9698080/CLionProjects/VERIFICA_GRAJDEANU/cmake-build-debug

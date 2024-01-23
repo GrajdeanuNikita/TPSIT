@@ -1,0 +1,26 @@
+C:\Users\9698080\AppData\Local\JetBrains\CLion2023.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/9698080/AppData/Local/JetBrains/CLion 2023.2.2/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S C:\Users\9698080\CLionProjects\Es1 -B C:\Users\9698080\CLionProjects\Es1\cmake-build-debug
+-- The C compiler identification is unknown
+-- Detecting C compiler ABI info
+CMake Error:
+  Running
+
+   'C:/Users/9698080/AppData/Local/JetBrains/CLion 2023.2.2/bin/ninja/cygwin/x64/ninja.exe' '-C' 'C:/Users/9698080/CLionProjects/Es1/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3qoxqP' '-t' 'recompact'
+
+  failed with:
+
+   ninja: error: build.ninja:127: unknown target 'all'
+
+  default all
+
+             ^ near here
+
+
+
+CMake Error at /cygdrive/c/Users/9698080/AppData/Local/JetBrains/CLion2023.2/cygwin_cmake/share/cmake-3.26.4/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile):
+  Failed to generate test project build system.
+Call Stack (most recent call first):
+  /cygdrive/c/Users/9698080/AppData/Local/JetBrains/CLion2023.2/cygwin_cmake/share/cmake-3.26.4/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!

@@ -1,0 +1,3 @@
+C:/Users/9698080/CLionProjects/VERIFICA_GRAJDEANU/cmake-build-debug/CMakeFiles/VERIFICA_GRAJDEANU.dir
+C:/Users/9698080/CLionProjects/VERIFICA_GRAJDEANU/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/9698080/CLionProjects/VERIFICA_GRAJDEANU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
